@@ -6207,7 +6207,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 93.98) (xy 185.42 93.98)
+			(xy 203.2 96.52) (xy 185.42 96.52)
 		)
 		(stroke
 			(width 0)
@@ -6877,7 +6877,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 88.9) (xy 203.2 88.9)
+			(xy 185.42 91.44) (xy 203.2 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7467,7 +7467,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 96.52) (xy 203.2 96.52)
+			(xy 185.42 88.9) (xy 203.2 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7637,7 +7637,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 91.44) (xy 185.42 91.44)
+			(xy 203.2 93.98) (xy 185.42 93.98)
 		)
 		(stroke
 			(width 0)
@@ -8417,7 +8417,7 @@
 		(uuid "b92842f0-b1e1-41fe-a230-153ad8d8b592")
 	)
 	(label "C13"
-		(at 185.42 88.9 0)
+		(at 185.42 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8615,7 +8615,7 @@
 		(uuid "d62594a5-c14e-4d79-b671-9f67191e013b")
 	)
 	(label "C15"
-		(at 185.42 93.98 0)
+		(at 185.42 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8626,7 +8626,7 @@
 		(uuid "d6de34ed-96db-4604-9921-6f0194b08c01")
 	)
 	(label "NRST"
-		(at 185.42 96.52 0)
+		(at 185.42 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8758,7 +8758,7 @@
 		(uuid "f8959323-d921-4994-aa40-85140dbfc89c")
 	)
 	(label "C14"
-		(at 185.42 91.44 0)
+		(at 185.42 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font

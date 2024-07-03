@@ -16,7 +16,7 @@ The dimensions of the board are (L x W x H) 64mm x 24mm x 1.6mm.
 
 The mounting holes are designed for [M2 ISO7380 screws][4].
 
-[0]: https://wiki.stm32duino.com/index.php?title=Blue_Pill
+[0]: https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
 [1]: https://jlcpcb.com
 [2]: https://www.thingiverse.com
 [3]: https://www.printables.com
