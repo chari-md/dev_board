@@ -1,6 +1,6 @@
 # STM32 Dev Board
 
-![Board](assets/dev_board_render_angle.jpg)
+![Board](assets/dev_board_render_angle.png)
 
 This is a simple STM32 development board that I designed for my own use. It is based on the STM32F103C8T6 microcontroller. The design is inspired by the [Blue Pill][0] development board.
 
